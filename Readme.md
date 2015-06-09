@@ -21,7 +21,7 @@ The system includes a custom build ASCI table builder as well, to properly forma
 
 ##Installation
 
-- Clone the repository to the desired destination folder on the destination system using the git clone command.
+- Clone the repository (https://github.com/marcov4lente/TransactionalReportingSystem) to the desired destination folder on the destination system using the git clone command.
 - Change directory to the application's root folder.
 - Run a composer update, so that all required vendor packages are downloaded and installed.
 
