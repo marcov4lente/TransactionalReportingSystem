@@ -15,6 +15,7 @@ The system includes a custom build ASCI table builder as well, to properly forma
 ##Requirements
 
 - PHP 5.5 or above.
+- PHP SQLITE PDO Driver
 - Apache 2 / Ngin
 - Please insure that the logs folder is writeable.
 
